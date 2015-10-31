@@ -1,0 +1,13 @@
+PODS:
+  - RDVTabBarController (1.1.9)
+  - RKSwipeBetweenViewControllers (0.1.4)
+
+DEPENDENCIES:
+  - RDVTabBarController
+  - RKSwipeBetweenViewControllers
+
+SPEC CHECKSUMS:
+  RDVTabBarController: 67794f7a7a37f8e32f046f85ac67d06ab92d624a
+  RKSwipeBetweenViewControllers: 2236038119d6f7eb64ff589eb423fcda80cbe962
+
+COCOAPODS: 0.39.0
